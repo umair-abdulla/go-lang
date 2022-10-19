@@ -1,4 +1,4 @@
 /# go-lang
-Study notes and files
+test codes
 19/10/22
 cards, interface, channels, go_http, map, struct
